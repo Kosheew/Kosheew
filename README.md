@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Kosheew/Kosheew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# [Maze-Game](https://github.com/Kosheew/Maze-Game.git). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Maze Game — це моторошна гра-лабіринт з унікальним дизайном, де гравець у темряві досліджує коридори, знаходить ключі, уникає пасток і переслідувачів, щоб розгадати таємниці та знайти вихід.
+* Мета гри: Гравець повинен дослідити лабіринт, знайти всі ключі, щоб пройти гру, і втекти, уникаючи пасток та ворогів.
+* Ключі можуть бути приховані у важкодоступних або непримітних місцях, і гравець має взаємодіяти з ними, щоб підібрати.
+
+<p align="center">
+<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_1.jpg" width="930">
+
+</p>
+
+
+# Contact Info:
+
+- Email: abdrey192020@gmail.com
+- LinkedIn: [decodealex](www.linkedin.com/in/andriy-zakruzhnuy)
