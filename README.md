@@ -11,9 +11,17 @@
 <img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_2.jpg" width="400" height="230">
 <img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_3.jpg" width="400" height="230">
 <img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_4.jpg" width="400" height="230">
-
 </p>
 
+# [MR.-Riffle-Joke](https://github.com/Kosheew/MR.-Riffle-Joke.git) 
+* Mr. Riffle Joke — це гумористична гра, де гравець бере на себе роль коміка, вгадує жанри жартів, складає власні стендапи, просувається по кар'єрній драбині від клубних виступів до великих шоу та отримує нагороди за найкращі виступи.
+* Мета гри: Гравець має відгадати тип жанру, що ідеально підійде для слухача.
+
+<p align="center">
+<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_1.png" width="400" height="230">
+<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_2.png" width="400" height="230">
+<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_3.png" width="400" height="230">
+</p>
 
 # Contact Info:
 
