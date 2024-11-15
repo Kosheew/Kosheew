@@ -7,10 +7,10 @@
 * Ключі можуть бути приховані у важкодоступних або непримітних місцях, і гравець має взаємодіяти з ними, щоб підібрати.
 
 <p align="center">
-<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_1.jpg" width="232">
-<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_2.jpg" width="232">
-<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_3.jpg" width="232">
-<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_4.jpg" width="232">
+<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_1.jpg" width="232" height="150">
+<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_2.jpg" width="232" height="150">
+<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_3.jpg" width="232" height="150">
+<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_4.jpg" width="232" height="150">
 
 </p>
 
