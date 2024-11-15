@@ -23,6 +23,15 @@
 <img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_3.png" width="400" height="230">
 </p>
 
+# [Iron-Shout](https://github.com/Kosheew/Iron-Snout.git) 
+
+* Iron-Shout — це пародія на веб-гру, в якій гравець має боротися з ворогами, що атакують з усіх напрямків.
+* Основною метою є відбиття атак і знищення ворогів.
+
+<p align="center">
+<img src="https://github.com/Kosheew/Iron-Snout/blob/main/Assets/Sprites/Image_git/Photo_1.png" width="930">
+</p>
+
 # Contact Info:
 
 - Email: abdrey192020@gmail.com
