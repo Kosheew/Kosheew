@@ -23,6 +23,14 @@
 <img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_3.png" width="400" height="230">
 </p>
 
+# [Fabricate](https://github.com/Kosheew/Fabricate_It)
+* Fabricate - це сонова для стратегичної гри.
+* Реалізовані основні аспекти будівницьва та збереження даних в бінарному форматі
+
+<p align="center">
+<img src="https://github.com/Kosheew/Fabricate_It/blob/main/Image/Photo_1.jpg" width="800" height="430">
+</p>
+
 # [Iron-Shout](https://github.com/Kosheew/Iron-Snout.git) 
 
 * Iron-Shout — це пародія на веб-гру, в якій гравець має боротися з ворогами, що атакують з усіх напрямків.
