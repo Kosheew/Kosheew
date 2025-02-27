@@ -7,6 +7,30 @@ I focus on game design, programming, and implementing complex mechanics.
 
 ## 🎮 **Мої проєкти**  
 
+### 🔹  [MR.-Riffle-Joke](https://github.com/Kosheew/MR.-Riffle-Joke.git) 
+A humorous game where the player takes on the role of a stand-up comedian, guesses joke genres, creates performances, and climbs the career ladder.  
+
+**Technologies & Patterns:**  
+- Narrative & Choice-Based Mechanics  
+- Dynamic Audience Feedback System   
+
+<p align="center">
+<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_1.png" width="350">
+<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_2.png" width="350">
+<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_3.png" width="350">
+</p>
+
+---
+
+### 🔹 [Vehicle Game](https://github.com/Kosheew/Armor-the-Vehicle-Game.git)
+
+<p align="center">
+<img src="Images/Vehicle Game/photo_1.jpg" width="350">
+<img src="Images/Vehicle Game/photo_2.jpg" width="350">
+</p>
+
+---
+
 ### 🔹 [Maze Game](https://github.com/Kosheew/Maze-Game.git)  
 A horror maze game where the player explores dark corridors, searches for keys, avoids traps, and escapes from lurking dangers.  
 
@@ -20,21 +44,6 @@ A horror maze game where the player explores dark corridors, searches for keys, 
 <img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_2.jpg" width="350">
 <img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_3.jpg" width="350">
 <img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_4.jpg" width="350">
-</p>
-
----
-
-### 🔹  [MR.-Riffle-Joke](https://github.com/Kosheew/MR.-Riffle-Joke.git) 
-A humorous game where the player takes on the role of a stand-up comedian, guesses joke genres, creates performances, and climbs the career ladder.  
-
-**Technologies & Patterns:**  
-- Narrative & Choice-Based Mechanics  
-- Dynamic Audience Feedback System   
-
-<p align="center">
-<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_1.png" width="350">
-<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_2.png" width="350">
-<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_3.png" width="350">
 </p>
 
 ---
