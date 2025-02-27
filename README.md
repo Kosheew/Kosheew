@@ -1,7 +1,7 @@
 # 👨‍💻 Andriy Zakruzhnuy | Game Developer  
 
-Вітаю! Я займаюсь розробкою ігор та працюю над власними проєктами в Unity.  
-Основний фокус — геймдизайн, програмування і створення механік.  
+Welcome! I am a passionate game developer specializing in Unity.  
+I focus on game design, programming, and implementing complex mechanics.  
 
 ---
 
