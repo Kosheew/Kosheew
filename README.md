@@ -5,7 +5,7 @@ I focus on game design, programming, and implementing complex mechanics.
 
 ---
 
-## 🎮 **Мої проєкти**  
+## 🎮 **Projects** 
 
 ### 🔹  [MR.-Riffle-Joke](https://github.com/Kosheew/MR.-Riffle-Joke.git) 
 A humorous game where the player takes on the role of a stand-up comedian, guesses joke genres, creates performances, and climbs the career ladder.  
