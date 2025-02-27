@@ -14,9 +14,11 @@ A humorous game where the player takes on the role of a stand-up comedian, guess
 - Narrative & Choice-Based Mechanics  
 - Dynamic Audience Feedback System   
 
-![Image 1](https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_1.png)
-![Image 2](https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_2.png)
-![Image 3](https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_3.png)
+<p align="center">
+  <img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_1.png" width="350">
+  <img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_2.png" width="350">
+  <img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_3.png" width="350">
+</p>
 
 ---
 
