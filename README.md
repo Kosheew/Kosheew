@@ -1,4 +1,4 @@
-# 👨‍💻 Andriy Zakruzhnuy | Game Developer  
+# 👨‍💻 Andriy Zakruzhnuy | Game Developer @ Indie Team 
 
 Welcome! I am a passionate game developer specializing in Unity.  
 I focus on game design, programming, and implementing complex mechanics.  
