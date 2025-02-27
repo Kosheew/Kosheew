@@ -1,46 +1,92 @@
+# 👨‍💻 Andriy Zakruzhnuy | Game Developer  
 
+Вітаю! Я займаюсь розробкою ігор та працюю над власними проєктами в Unity.  
+Основний фокус — геймдизайн, програмування і створення механік.  
 
-# [Maze-Game](https://github.com/Kosheew/Maze-Game.git) 
+## 🎮 **Мої проєкти**  
 
-* Maze Game — це моторошна гра-лабіринт з унікальним дизайном, де гравець у темряві досліджує коридори, знаходить ключі, уникає пасток і переслідувачів, щоб розгадати таємниці та знайти вихід.
-* Мета гри: Гравець повинен дослідити лабіринт, знайти всі ключі, щоб пройти гру, і втекти, уникаючи пасток та ворогів.
-* Ключі можуть бути приховані у важкодоступних або непримітних місцях, і гравець має взаємодіяти з ними, щоб підібрати.
-
-<p align="center">
-<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_1.jpg" width="400" height="230">
-<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_2.jpg" width="400" height="230">
-<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_3.jpg" width="400" height="230">
-<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_4.jpg" width="400" height="230">
-</p>
-
-# [MR.-Riffle-Joke](https://github.com/Kosheew/MR.-Riffle-Joke.git) 
-* Mr. Riffle Joke — це гумористична гра, де гравець бере на себе роль коміка, вгадує жанри жартів, складає власні стендапи, просувається по кар'єрній драбині від клубних виступів до великих шоу та отримує нагороди за найкращі виступи.
-* Мета гри: Гравець має відгадати тип жанру, що ідеально підійде для слухача.
+### 🔹 [Maze Game](https://github.com/Kosheew/Maze-Game.git)  
+Моторошний лабіринт, де гравець досліджує темні коридори, шукає ключі, уникає пасток і тікає від переслідувачів.  
 
 <p align="center">
-<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_1.png" width="400" height="230">
-<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_2.png" width="400" height="230">
-<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_3.png" width="400" height="230">
+<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_1.jpg" width="350">
+<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_2.jpg" width="350">
+<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_3.jpg" width="350">
+<img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_4.jpg" width="350">
 </p>
 
-# [Fabricate](https://github.com/Kosheew/Fabricate_It)
-* Fabricate - це сонова для стратегичної гри.
-* Реалізовані основні аспекти будівницьва та збереження даних в бінарному форматі
+### 🔹  [MR.-Riffle-Joke](https://github.com/Kosheew/MR.-Riffle-Joke.git) 
+Гумористична гра, де гравець стає стендап-коміком: відгадує жанри жартів, складає власні виступи та бореться за популярність.  
 
 <p align="center">
-<img src="https://github.com/Kosheew/Fabricate_It/blob/main/Image/Photo_1.jpg" width="800" height="430">
+<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_1.png" width="350">
+<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_2.png" width="350">
+<img src="https://github.com/Kosheew/MR.-Riffle-Joke/blob/main/Image/Photo_3.png" width="350">
 </p>
 
-# [Iron-Shout](https://github.com/Kosheew/Iron-Snout.git) 
+### 🔹 [Fabricate](https://github.com/Kosheew/Fabricate_It)
+Економічна стратегія, в якій реалізовано будівництво та систему збереження даних у бінарному форматі.  
 
-* Iron-Shout — це пародія на веб-гру, в якій гравець має боротися з ворогами, що атакують з усіх напрямків.
-* Основною метою є відбиття атак і знищення ворогів.
+<p align="center">
+<img src="https://github.com/Kosheew/Fabricate_It/blob/main/Image/Photo_1.jpg" width="700">
+</p>
+
+### 🔹 [Iron-Shout](https://github.com/Kosheew/Iron-Snout.git) 
+
+Динамічний екшн, пародія на веб-гру, де гравець бореться з хвилями ворогів з усіх напрямків.  
 
 <p align="center">
 <img src="https://github.com/Kosheew/Iron-Snout/blob/main/Assets/Sprites/Image_git/Photo_1.png" width="930">
 </p>
 
-# Contact Info:
+---
 
-- Email: abdrey192020@gmail.com
-- LinkedIn: [decodealex](www.linkedin.com/in/andriy-zakruzhnuy)
+## 🛠 **Tech Skills & Tools**  
+
+### **Programming Languages:**  
+- C#, Python  
+
+### **Game Development:**  
+- Unity, Construct  
+
+### **IDEs:**  
+- Rider, Visual Studio  
+
+### **Version Control:**  
+- Git  
+
+### **Project Management Tools:**  
+- Jira, Code, Notion, Monday, Trello, Miro  
+
+---
+
+## 📌 **Core Tech & Professional Skills**  
+
+### **Software Architecture & Design:**  
+- OOP, SOLID, Design Patterns  
+
+### **Design Patterns:**  
+- Service Locator, Object Pool, Event Bus  
+- MVC, MVP  
+- Factory Method, Abstract Factory  
+- FSM, State, Command  
+- Singleton, Composite  
+- Dependency Injection  
+
+### **Unity Tools:**  
+- Universal Render Pipeline (URP)  
+- VFX / Shader Graph  
+- Cinemachine, Timeline, Recorder  
+- Advertisement Legacy  
+- Odin Inspector and Serializer  
+- URP Light Baking  
+
+### **Unity Plugins:**  
+- DoTween, Photon, AI Pathfinding  
+
+---
+
+## 📩 **Контакти**  
+
+- 📧 Email: **abdrey192020@gmail.com**  
+- 🔗 LinkedIn: [Andriy Zakruzhnuy](https://www.linkedin.com/in/andriy-zakruzhnuy)  
