@@ -22,20 +22,6 @@ A humorous game where the player takes on the role of a stand-up comedian, guess
 
 ---
 
-### 🔹 [Vehicle Game](https://github.com/Kosheew/Armor-the-Vehicle-Game.git)  
-A fast-paced hyper-casual game where players control an armored vehicle and eliminate enemies while navigating through dynamic battlefields. The game features smooth controls, intense combat mechanics, and an engaging progression system.  
-
-**Technologies & Patterns:**  
-- Dependency Injection (DI)
-- Object Pool
-  
-<p align="center">
-  <img src="Images/Vehicle Game/photo_1.jpg" width="350">
-  <img src="Images/Vehicle Game/photo_2.jpg" width="350">
-</p>
-
----
-
 ### 🔹 [Maze Game](https://github.com/Kosheew/Maze-Game.git)  
 A horror maze game where the player explores dark corridors, searches for keys, avoids traps, and escapes from lurking dangers.  
 
@@ -49,6 +35,20 @@ A horror maze game where the player explores dark corridors, searches for keys, 
 <img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_2.jpg" width="350">
 <img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_3.jpg" width="350">
 <img src="https://github.com/Kosheew/Maze-Game/blob/main/Image/photo_4.jpg" width="350">
+</p>
+
+---
+
+### 🔹 [Vehicle Game](https://github.com/Kosheew/Armor-the-Vehicle-Game.git)  
+A fast-paced hyper-casual game where players control an armored vehicle and eliminate enemies while navigating through dynamic battlefields. The game features smooth controls, intense combat mechanics, and an engaging progression system.  
+
+**Technologies & Patterns:**  
+- Dependency Injection (DI)
+- Object Pool
+  
+<p align="center">
+  <img src="Images/Vehicle Game/photo_1.jpg" width="350">
+  <img src="Images/Vehicle Game/photo_2.jpg" width="350">
 </p>
 
 ---
