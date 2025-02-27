@@ -53,6 +53,19 @@ A horror maze game where the player explores dark corridors, searches for keys, 
 
 ---
 
+### 🔹 [Iron-Shout](https://github.com/Kosheew/Iron-Snout.git) 
+A fast-paced action parody of a web game where the player fights against waves of enemies from all directions.  
+
+**Technologies & Patterns:**  
+- Service Locator  
+- Event Bus System  
+
+<p align="center">
+<img src="https://github.com/Kosheew/Iron-Snout/blob/main/Assets/Sprites/Image_git/Photo_1.png" width="930">
+</p>
+
+---
+
 ### 🔹 [Fabricate](https://github.com/Kosheew/Fabricate_It)
 An economic strategy game with implemented building mechanics and binary data saving system.  
 
@@ -63,19 +76,6 @@ An economic strategy game with implemented building mechanics and binary data sa
 
 <p align="center">
 <img src="https://github.com/Kosheew/Fabricate_It/blob/main/Image/Photo_1.jpg" width="700">
-</p>
-
----
-
-### 🔹 [Iron-Shout](https://github.com/Kosheew/Iron-Snout.git) 
-A fast-paced action parody of a web game where the player fights against waves of enemies from all directions.  
-
-**Technologies & Patterns:**  
-- Service Locator  
-- Event Bus System  
-
-<p align="center">
-<img src="https://github.com/Kosheew/Iron-Snout/blob/main/Assets/Sprites/Image_git/Photo_1.png" width="930">
 </p>
 
 ---
