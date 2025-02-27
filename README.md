@@ -22,11 +22,16 @@ A humorous game where the player takes on the role of a stand-up comedian, guess
 
 ---
 
-### 🔹 [Vehicle Game](https://github.com/Kosheew/Armor-the-Vehicle-Game.git)
+### 🔹 [Vehicle Game](https://github.com/Kosheew/Armor-the-Vehicle-Game.git)  
+A fast-paced hyper-casual game where players control an armored vehicle and eliminate enemies while navigating through dynamic battlefields. The game features smooth controls, intense combat mechanics, and an engaging progression system.  
 
+**Technologies & Patterns:**  
+- Dependency Injection (DI)
+- Object Pool
+  
 <p align="center">
-<img src="Images/Vehicle Game/photo_1.jpg" width="350">
-<img src="Images/Vehicle Game/photo_2.jpg" width="350">
+  <img src="Images/Vehicle Game/photo_1.jpg" width="350">
+  <img src="Images/Vehicle Game/photo_2.jpg" width="350">
 </p>
 
 ---
