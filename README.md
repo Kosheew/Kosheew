@@ -23,10 +23,10 @@ Agency is a dark spy thriller set in a divided city inspired by 1980s Berlin. Yo
 - Save System: Modular save/load using interfaces (ISaveManager) with Binary and JSON support. Storage limits tied to building levels.
 
 <p align="center">
-  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_1.jpg" width="350" height="300">
-  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_2.jpg" width="350" height="300">
-  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_3.jpg" width="350" height="300">
-  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_4.jpg" width="350" height="300">
+  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_1.jpg" width="350" height="200">
+  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_2.jpg" width="350" height="200">
+  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_3.jpg" width="350" height="200">
+  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_4.jpg" width="350" height="200">
 </p>
 
 ---
