@@ -21,13 +21,12 @@ Agency is a dark spy thriller set in a divided city inspired by 1980s Berlin. Yo
 - AI System: FSM-based enemy behavior (patrolling, searching, attacking), with plans for Behavior Trees in future iterations.
 - Dialogue System: Built with ScriptableObjects, using custom editor with node-based visual layout (no third-party tools).
 - Save System: Modular save/load using interfaces (ISaveManager) with Binary and JSON support. Storage limits tied to building levels.
-- State & Command Patterns: Building logic uses clean State transitions (e.g., Building, Destroyed, Under Construction) with Command actions (e.g., speed-up, repair).
 
 <p align="center">
-  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_1.jpg" width="350">
-  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_2.jpg" width="350">
-  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_3.jpg" width="350">
-  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_4.jpg" width="350">
+  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_1.jpg" width="350" height="300">
+  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_2.jpg" width="350" height="300">
+  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_3.jpg" width="350" height="300">
+  <img src="https://github.com/Kosheew/Kosheew/blob/main/Images/Agency/photo_4.jpg" width="350" height="300">
 </p>
 
 ---
