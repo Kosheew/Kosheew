@@ -11,13 +11,13 @@ I focus on game design, programming, and implementing complex mechanics.
 
 Agency is a dark spy thriller set in a divided city inspired by 1980s Berlin. You play as an undercover agent navigating a world of political tension, surveillance, and secrets. The story unfolds through exploration, stealth, and meaningful dialogue choices, where every decision can shift the balance of power.
 
-**Gameplay Features:
+**Gameplay Features**
 - Cover-based stealth system: Hide behind objects to avoid enemy detection.
 - Line-of-sight AI: Enemies detect the player only when visible and not behind cover.
 - Dialogue with branching choices: Influence the outcome of events and relationships.
 - Evidence investigation: Search environments for key clues to progress the story.
 
-**Technical Implementation
+**Technical Implementation**
 - AI System: FSM-based enemy behavior (patrolling, searching, attacking), with plans for Behavior Trees in future iterations.
 - Dialogue System: Built with ScriptableObjects, using custom editor with node-based visual layout (no third-party tools).
 - Save System: Modular save/load using interfaces (ISaveManager) with Binary and JSON support. Storage limits tied to building levels.
